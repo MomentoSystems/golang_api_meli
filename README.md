@@ -2,7 +2,8 @@ Tiny ERP API em GoLang
 ===============
 
 Biblioteca Não Oficial em GoLang criada por Momento Systems
-Site oficial : https://www.tiny.com.br/ajuda/api/api2
+
+Site Oficial da Documentação : https://www.tiny.com.br/ajuda/api/api2
 
 ## Projeto Status
 Em desenvolvimento

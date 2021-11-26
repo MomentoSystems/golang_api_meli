@@ -1,7 +1,7 @@
 Tiny ERP API em GoLang 
 ===============
 
-Biblioteca em GoLang criada por Momento Systems
+Biblioteca Não Oficial em GoLang criada por Momento Systems
 
 ## Projeto Status
 Em desenvolvimento
